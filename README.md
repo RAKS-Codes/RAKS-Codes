@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RAKS-Codes
 - 🌱 I’m currently learning Full stack devlopment
-- 💞️ I’m looking to collaborate on anything which would push me to the limit and get thungs done
+- 💞️ I’m looking to collaborate on anything which would push me to the limit and get things done
 - 📫 How to reach me rakshithcodes@gmail.com
 
 <!---
